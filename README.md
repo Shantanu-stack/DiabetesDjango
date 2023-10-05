@@ -12,4 +12,4 @@ Welcome to the Type 2 Diabetes Prediction project repository! This project utili
 
 - ## Demo
 
-- 
+- ![Screenshot 2023-10-02 162534](https://github.com/Shantanu-stack/DiabetesDjango/assets/115661480/b09f81c8-092f-415c-9222-812dfd427b30)
